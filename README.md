@@ -1,7 +1,5 @@
 # Flappy Bird Game
 
-![Flappy Bird](flappy_bird_screenshot.png)
-
 ## Overview
 This is a simple implementation of the classic Flappy Bird game using Python and the Pygame library. The game features a bird that the player controls by tapping the space bar to make it fly through a series of pipes. The goal is to navigate the bird through the pipes without colliding with them to achieve the highest score possible.
 
